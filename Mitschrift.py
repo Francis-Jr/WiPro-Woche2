@@ -115,4 +115,5 @@ print l
 
 """
 bisschen was fehlt noch, musste früher gehen
+es fehlt: Kontrollstrukturen
 """
